@@ -1,0 +1,27 @@
+_repo: Roman-Women_32356
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brittain, Alfred
+    gutenberg_agent_id: '35805'
+    url: http://www.gutenberg.org/2009/agents/35805
+description: ''
+gutenberg_issued: '2010-05-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32356'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: 'Woman: in all ages and in all countries, Volume 2'
+subjects:
+- !lcc 'HQ'
+- !lcc 'DG'
+- !lcsh 'Women -- Italy -- Rome'
+- !lcsh 'Women -- Italy -- Rome -- Social life and customs'
+title: Roman Women
+url: http://www.gutenberg.org/ebooks/32356
